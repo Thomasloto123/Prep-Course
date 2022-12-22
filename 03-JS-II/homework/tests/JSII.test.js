@@ -26,7 +26,7 @@ describe('obtenerMayor(x, y)', function() {
     expect(obtenerMayor(50, 100)).toBe(100);
   });
   it('should return either one if they are the same', function() {
-    expect(obtenerMayor(1000, 1000)).toBe(1000);
+    expect(obtenerMayor(1000, 1000)).toBe(hola);
   });
 });
 
