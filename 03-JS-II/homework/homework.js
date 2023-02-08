@@ -9,7 +9,8 @@ function obtenerMayor(x, y) {
   if(x > y) {
     return x;
   }
-  return y;
+  return y; 
+
 }
 
 function mayoriaDeEdad(edad) {
